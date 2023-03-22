@@ -1,6 +1,7 @@
 # jpg2pngPY
 
 Simple python script to convert every jpg file in a folder into png files.
+Doesn't overwrite the original files.
 
 Usage via CLI:
 > python.exe source_folder/ new_folder/
